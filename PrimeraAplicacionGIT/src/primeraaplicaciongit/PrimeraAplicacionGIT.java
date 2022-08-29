@@ -9,7 +9,7 @@ package primeraaplicaciongit;
  * @author dinamartinezruiz
  */
 public class PrimeraAplicacionGIT
-{
+{ 
 
     /**
      * @param args the command line arguments
@@ -17,6 +17,7 @@ public class PrimeraAplicacionGIT
     public static void main(String[] args)
     {
         // TODO code application logic here
+        System.out.println("Hola mundo");
     }
     
 }
